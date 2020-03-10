@@ -1,4 +1,3 @@
-
 int flex = A0;
 int data[200];
 
